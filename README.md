@@ -1,1 +1,2 @@
-# A sample for using swagger-spring-boot-starter.
+# swagger
+A sample for using swagger-spring-boot-starter.
